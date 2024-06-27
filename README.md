@@ -1,3 +1,3 @@
 # TicTacToe
 
-The classical Tic-Tac-Toe as a console based game application built in java.
+It is a console-based version of the classical Tic-Tac-Toe game built in Java.
